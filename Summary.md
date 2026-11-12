@@ -60,7 +60,7 @@ P102|Pen|1|0
 
 The program accepted the minimum price of 1 and the stock of 0, and showed the out-of-stock warning. The ID is `P102` here because the Laptop from Test Case 1 was already in the file. On an empty product list it gets `P101`.
 
-<img width="1481" height="955" alt="WhatsApp Image 2026-11-11 at 6 42 32 PM" src="https://github.com/user-attachments/assets/9b70f698-1a36-409d-9523-a008f07b46b6" />
+
 <img width="1492" height="711" alt="Screenshot 2026-11-11 181059" src="https://github.com/user-attachments/assets/0de4146d-8b12-44ef-babb-1f55b350c73c" />
 
 
